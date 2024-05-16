@@ -31,7 +31,7 @@ I'm a dedicated and passionate developer, levelling up everyday.
 
 ###
 
-<img src="https://raw.githubusercontent.com/r7projects-shayan/r7projects-shayan/output/snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/r7projects-shayan/r7projects-shayan/blob/output/github-contribution-grid-snake2.svg)
 
 ###
 
