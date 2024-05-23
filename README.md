@@ -11,8 +11,6 @@ I'm a dedicated and passionate developer, levelling up everyday.
 * 🤝  I'm open to collaborating on Projects, Hackathons
 
 
-
-
 <div align="left">
   <a href="https://discord.com/users/1197487931078754409" style="text-decoration:none;" target="_blank">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
