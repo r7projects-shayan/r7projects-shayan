@@ -10,7 +10,7 @@ I'm a dedicated and passionate developer, levelling up everyday.
 * 🧠  I'm learning Artificial Intelligence and Machine Learning
 * 🤝  I'm open to collaborating on Projects, Hackathons
 
-<div align="center" style="width: 50%; height: 40%;">
+<div align="center" style="width: 50%; height: auto;">
     <img src="https://leetcode-badge-showcase.vercel.app/api?username=r7cs&theme=github-dark&filter=comp&border=no-border&animated=true" style="width: 100%; height: 100%;" />
 </div>
 
